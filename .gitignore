@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Angular CLI cache
+.angular/cache/
+
+# Output directory
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment-specific files
+src/environments/
